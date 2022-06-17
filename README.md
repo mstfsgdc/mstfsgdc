@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>  
-<h3 align="center">A front-end developer from Turkey</h3>  
+<h3 align="center">A frontend developer from Turkey</h3>  
   
 - 👨‍💻 All of my projects are available at [http://www.mstfsgdc.com/](http://www.mstfsgdc.com/)  
   
