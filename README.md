@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, Mustafa here.</h1>  
 <h3 align="center">a Turkish front end developer</h3>  
   
+ [![wakatime](https://wakatime.com/badge/user/e2c4bafd-8069-418a-a262-2e37de593867.svg?style=plastic)](https://wakatime.com/@e2c4bafd-8069-418a-a262-2e37de593867)
+ [![twitter](https://img.shields.io/twitter/follow/mstfsgdcdev?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/mstfsgdcdev)
+ [![github](https://img.shields.io/github/followers/mstfsgdc?logo=github&style=plastic)](https://github.com/mstfsgdc?tab=followers)
+  
 - 👨‍💻 All of my projects are available at [http://www.mstfsgdc.com/](http://www.mstfsgdc.com/)  
   
 - 📫 How to reach me **mstfsgdc@icloud.com**  
