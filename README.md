@@ -13,6 +13,7 @@ Hi 👋, Mustafa here.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mstfsgdc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mstfsgdc&icon=5&color=9)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mstfsgdc&label=Profile%20views&color=fe428e&style=flat" alt="mstfsgdc" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
